@@ -5,6 +5,7 @@ export type Project = {
   description: string;
   role: string;
   technologies: string[];
+  image: string;
   featured?: boolean;
 };
 
@@ -17,6 +18,7 @@ export const projects: Project[] = [
       "A digital experience for a homemade food business, designed to bring the warmth of a home kitchen into a modern web experience.",
     role: "UI/UX · Frontend · Backend · Deployment",
     technologies: ["HTML", "CSS", "JavaScript", "Flask", "Netlify"],
+    image: "/projects/aaheli.jpg",
     featured: true,
   },
 
@@ -28,6 +30,7 @@ export const projects: Project[] = [
       "A hostel management platform designed to simplify room allocation, payments, complaints and communication.",
     role: "Development · UI · Backend",
     technologies: ["Django", "Python", "JavaScript", "SQLite"],
+    image: "/projects/hostel.jpg",  
   },
 
   {
@@ -38,6 +41,7 @@ export const projects: Project[] = [
       "A private digital space built around conversations, stories and memories.",
     role: "Design · Frontend · Backend",
     technologies: ["Firebase", "Firestore", "JavaScript", "Vercel"],
+    image: "/projects/our-space.jpg",
   },
 
   {
@@ -48,5 +52,6 @@ export const projects: Project[] = [
       "A visual web experience exploring the relationship between books and their screen adaptations.",
     role: "UI/UX · Frontend",
     technologies: ["HTML", "CSS", "JavaScript"],
+    image: "/projects/book-to-screen.jpg",
   },
 ];
