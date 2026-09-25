@@ -4,6 +4,8 @@ import Work from "./components/Work";
 import About from "./components/About";
 import Creative from "./components/Creative";
 import Skills from "./components/Skills";
+import Education from "./components/Education";
+import Contact from "./components/Contact";
 
 export default function Home() {
   return (
@@ -14,6 +16,8 @@ export default function Home() {
       <Work />
       <Creative />
       <Skills />
+      <Education />
+      <Contact />
     </main>
   );
 }
