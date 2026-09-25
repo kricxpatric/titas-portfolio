@@ -39,9 +39,9 @@ export default function About() {
             </p>
 
             <p className="mt-5 max-w-xl text-base leading-8 text-[var(--muted)] md:text-lg">
-              But technology is only one side of me. I love photography,
-              visual storytelling, music, design and capturing the little
-              moments that make life memorable.
+              But technology is only one side of me. I love painting, 
+              reimagining the world through what I draw, 
+              and capturing the little moments that make life memorable.
             </p>
 
             {/* SMALL IDENTITY ROW */}
