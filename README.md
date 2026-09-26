@@ -1,6 +1,7 @@
-# Titas Haldar — Portfolio - https://titas-portfolio-five.vercel.app/
+# Titas Haldar — Portfolio 
 
 Personal portfolio website showcasing my projects, skills, design work, and interests. 
+Link - https://titas-portfolio-five.vercel.app/
 
 ## About
 
