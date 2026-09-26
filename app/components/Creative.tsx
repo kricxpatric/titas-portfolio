@@ -17,6 +17,9 @@ export default function Creative() {
             <span className="text-[var(--crimson)]">THE CODE.</span>
           </h2>
         </div>
+        <p className="max-w-sm text-sm leading-7 text-[var(--muted)]">
+          A collection of my personal creative work, including paintings and camera album.
+        </p>
       </div>
 
       {/* CREATIVE WORK */}

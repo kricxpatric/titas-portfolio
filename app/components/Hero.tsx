@@ -24,7 +24,7 @@ export default function Hero() {
       <div className="flex items-start justify-between">
         <div>
           <p className="text-[10px] uppercase tracking-[0.25em] text-[var(--muted)]">
-            01 / 04
+            00
           </p>
 
           <p className="mt-3 text-xs uppercase tracking-[0.18em] text-[var(--muted)]">
@@ -33,7 +33,7 @@ export default function Hero() {
         </div>
 
         <div className="hidden text-right text-[10px] uppercase tracking-[0.2em] text-[var(--muted)] md:block">
-          <p>West Bengal</p>
+          <p>Kolkata, West Bengal</p>
           <p className="mt-1">India</p>
         </div>
       </div>
@@ -41,7 +41,7 @@ export default function Hero() {
       {/* Main identity */}
       <div className="relative mt-16">
         <p className="mb-4 text-[10px] uppercase tracking-[0.25em] text-[var(--muted)]">
-          Hello, I&apos;m
+          Hello, I'm
         </p>
 
         <h1 className="font-[var(--font-syne)] text-[clamp(4.2rem,15vw,14rem)] font-bold leading-[0.74] tracking-[-0.085em]">

@@ -16,7 +16,7 @@ export default function Work() {
       <div className="mb-20 flex flex-col justify-between gap-10 md:flex-row md:items-end">
         <div>
           <p className="mb-5 text-[10px] uppercase tracking-[0.25em] text-[var(--muted)]">
-            02 / 04
+            02 / 06
           </p>
 
           <h2 className="font-[var(--font-syne)] text-[clamp(3.5rem,9vw,8rem)] font-bold leading-[0.82] tracking-[-0.07em]">

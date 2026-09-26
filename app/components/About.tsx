@@ -10,11 +10,11 @@ export default function About() {
         {/* SECTION LABEL */}
         <div className="mb-16 flex items-center justify-between">
           <span className="text-[10px] uppercase tracking-[0.3em] text-[var(--muted)]">
-            02 / About
+            01 / 06
           </span>
 
           <span className="text-[10px] uppercase tracking-[0.25em] text-[var(--muted)]">
-            Beyond the Code
+            
           </span>
         </div>
 
@@ -59,7 +59,7 @@ export default function About() {
               </span>
 
               <span className="text-[10px] uppercase tracking-[0.2em]">
-                Visual Storyteller
+                Artist
               </span>
             </div>
           </div>
@@ -76,8 +76,8 @@ export default function About() {
             </div>
 
             <div className="mt-4 flex justify-between text-[9px] uppercase tracking-[0.25em] text-[var(--muted)]">
-                <span>Personal Archive</span>
-                <span>02 / 04</span>
+                <span>THIS IS ME</span>
+                <span></span>
             </div>
         </div>
 
