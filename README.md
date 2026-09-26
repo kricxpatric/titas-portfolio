@@ -1,36 +1,123 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Titas Haldar — Portfolio
 
-## Getting Started
+A personal portfolio website showcasing my work, technical skills, creative interests, and projects as a Computer Science & Engineering student.
 
-First, run the development server:
+🌐 **Live Portfolio:** [Add your live website link here]
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Hi, I'm **Titas Haldar**, a Computer Science & Engineering student with an interest in software development, UI/UX design, artificial intelligence, cybersecurity, and creative technology.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This portfolio is a space where I bring together both sides of what I do — **technology and creativity**.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## What You'll Find
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 👨‍💻 About Me
+- 🛠️ Technical Skills
+- 🎨 UI/UX & Design
+- 💻 Development Projects
+- ☁️ Cloud & Development Tools
+- 📸 Creative Interests
+- 📬 Contact & Social Links
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Development
+- C
+- Python
+- Java
+- JavaScript
+- React
+- Next.js
+- Django
+- HTML
+- CSS
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Design
+- UI/UX Design
+- Figma
+- Visual Design
+- Responsive Design
+- Creative Direction
+
+### Cloud & Tools
+- AWS
+- Firebase
+- Git
+- GitHub
+- Vercel
+- Netlify
+- VS Code
+
+---
+
+## Featured Projects
+
+### 🏠 Hostel Management System
+A web-based hostel management system built to manage room allocation, payments, complaints, and notifications.
+
+**Tech:** Django, JavaScript, HTML, SQLite
+
+---
+
+### 💬 Our Space
+A private communication and storytelling website designed around personal conversations and shared memories.
+
+**Tech:** Firebase, Firestore, JavaScript
+
+---
+
+### 🎮 Vynora Game Bank
+A gaming-focused web project integrating blockchain wallet functionality with a modern web interface.
+
+**Tech:** Next.js, React, Stellar, AWS Amplify, API Gateway, Lambda, DynamoDB
+
+---
+
+### 📚 Biblioz
+An online bookstore concept focused on creating a simple and engaging digital book-browsing experience.
+
+---
+
+## Interests
+
+- Artificial Intelligence
+- Cybersecurity
+- UI/UX Design
+- Creative Technology
+- Photography
+- Digital Art
+
+---
+
+## Connect With Me
+
+**GitHub:** [Your GitHub Profile](YOUR_GITHUB_LINK)
+
+**LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN_LINK)
+
+**Email:** YOUR_EMAIL@example.com
+
+---
+
+## Portfolio
+
+This website is continuously evolving as I learn, build, experiment, and explore new ideas.
+
+> **Building with logic. Designing with feeling.**
+
+---
+
+### Built With
+
+**Next.js · React · TypeScript · CSS · Vercel / Netlify**
+
+---
+
+© 2026 Titas Haldar
